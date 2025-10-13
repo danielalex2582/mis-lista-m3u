@@ -15,9 +15,21 @@ https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 título del grupo="Bics Extra", Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
  
- 
 #EXTINF:-1 group-title="Bics Extra", Encuentro
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0036
  
 #EXTINF:-1 título del grupo="Bics Extra", Cine AR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=DIAR0040
+#EXTM3U
+#EXTINF:-1, HBO Family HD
+http://clubtv.link/01oct/phpcode/lista5.php?c=a0l5&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1, HBO HD
+http://clubtv.link/01oct/phpcode/lista5.php?c=a0l2&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1, HBO Plus HD
+http://clubtv.link/01oct/phpcode/lista5.php?c=a0l4&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1, HBO XTREME HD
+http://clubtv.link/01oct/phpcode/lista5.php?c=a0l6&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1, HBO2 HD
+http://clubtv.link/01oct/phpcode/lista5.php?c=a00c&token=tecnotokenplustv&f=.m3u8
+#EXTINF:-1 group-title="Bics Extra", telefe alternativo
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
